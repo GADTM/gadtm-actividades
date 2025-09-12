@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "id": "1757644630410",
+    "imagen": "https://res.cloudinary.com/dgv9hbtxd/image/upload/v1757644593/1366_2000_mxpxzb.jpg",
+    "descripcion": "PRUEBA",
+    "inicio": "2025-09-12T11:00",
+    "fin": "2025-09-12T23:00",
+    "bandas": "40M, 2M",
+    "modos": "SSB, DVOICE",
+    "links": "",
+    "horaVisible": ""
+  }
+]
