@@ -1,27 +1,5 @@
 [
   {
-    "id": "1757644630410",
-    "imagen": "https://res.cloudinary.com/dgv9hbtxd/image/upload/v1757644593/1366_2000_mxpxzb.jpg",
-    "descripcion": "PRUEBA",
-    "inicio": "2025-09-11T11:38",
-    "fin": "2025-09-11T23:39",
-    "bandas": "40M, 2M",
-    "modos": "SSB, DVOICE",
-    "links": "",
-    "horaVisible": ""
-  },
-  {
-    "id": "1757644761009",
-    "imagen": "https://res.cloudinary.com/dgv9hbtxd/image/upload/v1757644702/1366_2000_wdwnim.jpg",
-    "descripcion": "PRUEBA",
-    "inicio": "2025-09-11T11:38",
-    "fin": "2025-09-11T23:39",
-    "bandas": "40M, 2M",
-    "modos": "SSB, DVOICE",
-    "links": "",
-    "horaVisible": ""
-  },
-  {
     "id": "1757645137766",
     "imagen": "https://res.cloudinary.com/dgv9hbtxd/image/upload/v1757645093/002_chdck5.png",
     "descripcion": "AVES ARGENTINAS",
@@ -32,37 +10,4 @@
     "links": "",
     "horaVisible": ""
   },
-  {
-    "id": "1757645513197",
-    "imagen": "https://res.cloudinary.com/dgv9hbtxd/image/upload/v1757645470/006_ldd5qi.png",
-    "descripcion": "Aves prueba",
-    "inicio": "2025-03-01T11:00",
-    "fin": "2025-12-05T23:51",
-    "bandas": "40M, 2M",
-    "modos": "SSB, DVOICE",
-    "links": "",
-    "horaVisible": ""
-  },
-  {
-    "id": "1757645890531",
-    "imagen": "https://res.cloudinary.com/dgv9hbtxd/image/upload/v1757645842/Cardenal_Comun_Portada-1536x922_iynjiz.jpg",
-    "descripcion": "PRUEBA5",
-    "inicio": "2025-03-01T10:00",
-    "fin": "2025-12-05T23:59",
-    "bandas": "40M, 2M",
-    "modos": "SSB, DVOICE",
-    "links": "",
-    "horaVisible": ""
-  },
-  {
-    "id": "1757646786407",
-    "imagen": "https://res.cloudinary.com/dgv9hbtxd/image/upload/v1757646763/516868470_1282022576969291_1989257207210984403_n_knl8ft.jpg",
-    "descripcion": "prueba 6",
-    "inicio": "2025-09-12T00:12",
-    "fin": "2025-09-13T00:12",
-    "bandas": "40M, 2M",
-    "modos": "SSB, DVOICE",
-    "links": "",
-    "horaVisible": ""
-  }
 ]
