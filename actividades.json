@@ -31,5 +31,16 @@
     "modos": "SSB, DVOICE",
     "links": "",
     "horaVisible": ""
+  },
+  {
+    "id": "1757645513197",
+    "imagen": "https://res.cloudinary.com/dgv9hbtxd/image/upload/v1757645470/006_ldd5qi.png",
+    "descripcion": "Aves prueba",
+    "inicio": "2025-03-01T11:00",
+    "fin": "2025-12-05T23:51",
+    "bandas": "40M, 2M",
+    "modos": "SSB, DVOICE",
+    "links": "",
+    "horaVisible": ""
   }
 ]
