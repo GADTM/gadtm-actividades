@@ -1,16 +1,5 @@
 [
   {
-    "id": "1757651965802",
-    "imagen": "https://res.cloudinary.com/dgv9hbtxd/image/upload/v1757645470/006_ldd5qi.png",
-    "descripcion": "AVES ARGENTINAS",
-    "inicio": "2025-03-01T10:00",
-    "fin": "2025-12-05T23:00",
-    "bandas": "2M, 40M",
-    "modos": "SSB, DVOICE",
-    "links": "https://docs.google.com/spreadsheets/d/1SODa_7zzyN7wK_dbq3d5ni8KMq0X8O9q/edit?usp=sharing&ouid=101725798152762484074&rtpof=true&sd=true",
-    "horaVisible": ""
-  },
-  {
     "id": "1757653058647",
     "imagen": "https://res.cloudinary.com/dgv9hbtxd/image/upload/v1757645842/Cardenal_Comun_Portada-1536x922_iynjiz.jpg",
     "descripcion": "AVES ARGENTINAS",
