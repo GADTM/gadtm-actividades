@@ -53,5 +53,16 @@
     "modos": "SSB, DVOICE",
     "links": "",
     "horaVisible": ""
+  },
+  {
+    "id": "1757646786407",
+    "imagen": "https://res.cloudinary.com/dgv9hbtxd/image/upload/v1757646763/516868470_1282022576969291_1989257207210984403_n_knl8ft.jpg",
+    "descripcion": "prueba 6",
+    "inicio": "2025-09-12T00:12",
+    "fin": "2025-09-13T00:12",
+    "bandas": "40M, 2M",
+    "modos": "SSB, DVOICE",
+    "links": "",
+    "horaVisible": ""
   }
 ]
