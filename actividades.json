@@ -31,5 +31,16 @@
     "modos": "DIGITAL VOICE",
     "links": "QRZ.COM",
     "horaVisible": ""
+  },
+  {
+    "id": "1757713363903",
+    "imagen": "https://res.cloudinary.com/dgv9hbtxd/image/upload/v1757713186/Screenshot_20250912-183746_irqmdr.png",
+    "descripcion": "Qsl Expo Rural Dolores 2025 \nOctubre 13",
+    "inicio": "2025-10-13T13:00",
+    "fin": "2025-10-13T21:01",
+    "bandas": "2metros",
+    "modos": "Dig Voic",
+    "links": "En breve las bases",
+    "horaVisible": ""
   }
 ]
