@@ -9,5 +9,16 @@
     "modos": "SSB, DVOICE",
     "links": "https://docs.google.com/spreadsheets/d/1SODa_7zzyN7wK_dbq3d5ni8KMq0X8O9q/edit?usp=sharing&ouid=101725798152762484074&rtpof=true&sd=true",
     "horaVisible": ""
+  },
+  {
+    "id": "1757679412734",
+    "imagen": "https://res.cloudinary.com/dgv9hbtxd/image/upload/v1757679306/FB_IMG_17576274099766964_zobdh8.jpg",
+    "descripcion": "Día de la lógica argenta",
+    "inicio": "2025-09-12T10:00",
+    "fin": "2025-09-12T11:00",
+    "bandas": "2m",
+    "modos": "Dvoice",
+    "links": "",
+    "horaVisible": ""
   }
 ]
