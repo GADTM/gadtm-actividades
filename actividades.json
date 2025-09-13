@@ -38,8 +38,8 @@
     "descripcion": "Qsl Expo Rural Dolores 2025 \nOctubre 13",
     "inicio": "2025-10-13T10:00",
     "fin": "2025-10-13T15:00",
-    "bandas": "2metros",
-    "modos": "Dig Voic",
+    "bandas": "2M",
+    "modos": "DIGITAL VOICE",
     "links": "En breve las bases",
     "horaVisible": ""
   }
