@@ -31,5 +31,16 @@
     "modos": "DIGITAL VOICE",
     "links": "https://www.qrz.com/db/LU6EGD",
     "horaVisible": ""
+  },
+  {
+    "id": "1758064994852",
+    "imagen": "https://res.cloudinary.com/dgv9hbtxd/image/upload/v1758064847/MUESTRA_s7uh5a.jpg",
+    "descripcion": "DIA DEL RADIOAFICIONADO ARGENTINO",
+    "inicio": "2025-10-20T21:00",
+    "fin": "2025-10-21T21:00",
+    "bandas": "2M, 40M,",
+    "modos": "Todos los Modos",
+    "links": "https://gadtm.foroactivo.com/e10024725-dia-del-radioaficionado-argentino",
+    "horaVisible": ""
   }
 ]
