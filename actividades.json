@@ -31,5 +31,16 @@
     "modos": "Todos los Modos",
     "links": "https://gadtm.foroactivo.com/e10024725-dia-del-radioaficionado-argentino",
     "horaVisible": ""
+  },
+  {
+    "id": "1758299122094",
+    "imagen": "https://res.cloudinary.com/dgv9hbtxd/image/upload/v1758298969/pastor_luna_t8ulge.png",
+    "descripcion": "Homenaje AL REY DEL CHAMAME SANTIEGUEÑO",
+    "inicio": "2025-09-19T17:30",
+    "fin": "2025-09-19T18:30",
+    "bandas": "2m",
+    "modos": "dvoice",
+    "links": "",
+    "horaVisible": ""
   }
 ]
