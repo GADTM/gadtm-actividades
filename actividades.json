@@ -31,16 +31,5 @@
     "modos": "Todos los Modos",
     "links": "https://gadtm.foroactivo.com/e10024725-dia-del-radioaficionado-argentino",
     "horaVisible": ""
-  },
-  {
-    "id": "1758481013714",
-    "imagen": "https://res.cloudinary.com/dgv9hbtxd/image/upload/v1758480914/gracias_s9axpy.jpg",
-    "descripcion": "Dia mundial de la Gratitud",
-    "inicio": "2025-09-21T22:00",
-    "fin": "2025-09-21T23:00",
-    "bandas": "2m",
-    "modos": "dvoice",
-    "links": "",
-    "horaVisible": "SIMPLEMENTE GRACIAS"
   }
 ]
