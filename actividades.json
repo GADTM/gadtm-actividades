@@ -20,16 +20,5 @@
     "modos": "Todos los Modos",
     "links": "https://gadtm.foroactivo.com/e10024725-dia-del-radioaficionado-argentino",
     "horaVisible": ""
-  },
-  {
-    "id": "1760551146949",
-    "imagen": "https://res.cloudinary.com/dgv9hbtxd/image/upload/v1760551033/JOTA-JOTI_Website_banner_jvf2xx.jpg",
-    "descripcion": "JOTA JOTI 2025 - La Red Multiprotocolo Delta Víctor y el Multiprotocolo GADTM, acompañarán las actividades del Jamboree On The Air (JOTA) 2025, brindando soporte y conectividad a distintos grupos de scouts y radioaficionados de todo el país. El Jamboree On The Air es un encuentro internacional promovido por la Organización Mundial del Movimiento Scout (OMMS), que cada año reúne a miles de jóvenes y radioaficionados mediante la radioafición, los modos digitales y las redes multiprotocolo. \nInvitamos a todos los colegas radioaficionados a estar atentos a los llamados de los jóvenes scouts, brindando su saludo y apoyo para hacer de esta experiencia una jornada inolvidable.",
-    "inicio": "2025-10-17T21:00",
-    "fin": "2025-10-18T20:59",
-    "bandas": "2M, 70cm, 40M",
-    "modos": "Todos los MODOS",
-    "links": "https://www.jotajoti.info/",
-    "horaVisible": ""
   }
 ]
