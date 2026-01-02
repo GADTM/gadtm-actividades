@@ -9,5 +9,16 @@
     "modos": "SSB y Modos Digitales",
     "links": "https://drive.google.com/file/d/1uuRC60gInmfEPSyn92IHV4mGnerJxF32/view?usp=sharing",
     "horaVisible": ""
+  },
+  {
+    "id": "1767381622985",
+    "imagen": "https://cdn-bio.qrz.com/d/lu1ncd/cerro.jpg?p=43a11f6623c9c15c2e68b4eea10a3c22",
+    "descripcion": "ICONOS PROVINCIALES\n\nLa actividad serà Martes, Jueves y Sàbado.\nSe activaràn los modos digitales y HF, no serà necesario el envìo de  Log, pero si la confirmaciòn en QRZ de los contactos realizados.\n\nRecuerden confirmar en 2m, 144.0 Digital Voice para los contactos en Peanut, Echolink, Zello o VHF;  en 70cm 435.0 DMR para los contactos en DMR o FreeDMR",
+    "inicio": "2026-01-01T10:00",
+    "fin": "",
+    "bandas": "2m, 70cm y HF",
+    "modos": "DVOICE, DMR, SSB",
+    "links": "https://www.qrz.com/db/LU1NCD",
+    "horaVisible": ""
   }
 ]
