@@ -12,10 +12,10 @@
   },
   {
     "id": "1770659485597",
-    "imagen": "https://res.cloudinary.com/dgv9hbtxd/image/upload/v1770659139/subir_hy3ovc.jpg",
+    "imagen": "",
     "descripcion": "Campeones del Turismo Carretera (TC)\n\nLa Actividad se desarrollará Martes y Jueves desde el 3 de Marzo de 2026 con 2 salidas diarias.\n- Serán válidos los contactos en cualquier Banda y modalidad Digital o Analógica.\n- El QSO consistirá en el intercambio de QTR y QRA solamente, sin ningún número de orden. Y cada Estación otorgante entregara 1 punto que será válido para recibir la QSL personal.\n- DIPLOMAS BRONCE, PLATA Y ORO: Para la obtención de estos Diplomas las Estaciones\nparticipantes deberán completar la cantidad de 25 QSLs “Bronce”, 50 “Plata” y la totalidad para el Diploma ORO.\nObservaciones Generales: Será necesario enviar el log para la obtención del Diploma y la\nconfirmación en QRZ como plataforma principal, sin la confirmación no obtendrá las QSLs que\nserán generadas los días Sábados luego de recibir la confirmación semanal.\nEl log (Excel) puede descargarse de: https://docs.google.com/spreadsheets/d/1qQOrlwx6SheWYC6s2tuTvuqrWe35WMLI/edit?usp=drive_link&ouid=101725798152762484074&rtpof=true&sd=true",
     "inicio": "2026-03-03T10:00",
-    "fin": "2026-09-18T10:00",
+    "fin": "2026-12-24T10:00",
     "bandas": "70cm, 2M, 40M,",
     "modos": "SSB, DVOICE, DMR",
     "links": "https://drive.google.com/file/d/18f48TCG-TosrGe2n9XZBMK6lvH40IZXD/view?usp=drive_link",
