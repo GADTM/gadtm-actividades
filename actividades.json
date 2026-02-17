@@ -12,7 +12,7 @@
   },
   {
     "id": "1770659485597",
-    "imagen": "",
+    "imagen": "https://2img.net/r/events/10/02/53/68_1_1200x900.jpg",
     "descripcion": "Campeones del Turismo Carretera (TC)\n\nLa Actividad se desarrollará Martes y Jueves desde el 3 de Marzo de 2026 con 2 salidas diarias.\n- Serán válidos los contactos en cualquier Banda y modalidad Digital o Analógica.\n- El QSO consistirá en el intercambio de QTR y QRA solamente, sin ningún número de orden. Y cada Estación otorgante entregara 1 punto que será válido para recibir la QSL personal.\n- DIPLOMAS BRONCE, PLATA Y ORO: Para la obtención de estos Diplomas las Estaciones\nparticipantes deberán completar la cantidad de 25 QSLs “Bronce”, 50 “Plata” y la totalidad para el Diploma ORO.\nObservaciones Generales: Será necesario enviar el log para la obtención del Diploma y la\nconfirmación en QRZ como plataforma principal, sin la confirmación no obtendrá las QSLs que\nserán generadas los días Sábados luego de recibir la confirmación semanal.\nEl log (Excel) puede descargarse del QRZ de los otorgantes o del Foro en la sección \"Eventos\"",
     "inicio": "2026-03-03T10:00",
     "fin": "2026-12-24T10:00",
@@ -20,16 +20,5 @@
     "modos": "SSB, DVOICE, DMR",
     "links": "https://drive.google.com/file/d/18f48TCG-TosrGe2n9XZBMK6lvH40IZXD/view?usp=drive_link",
     "horaVisible": "UTC"
-  },
-  {
-    "id": "1771345553257",
-    "imagen": "https://res.cloudinary.com/dgv9hbtxd/image/upload/v1771345431/subir_zgn6tq.jpg",
-    "descripcion": "Campeones del Turismo Carretera (TC) La Actividad se desarrollará Martes y Jueves desde el 3 de Marzo de 2026 con 2 salidas diarias. - Serán válidos los contactos en cualquier Banda y modalidad Digital o Analógica. - El QSO consistirá en el intercambio de QTR y QRA solamente, sin ningún número de orden. Y cada Estación otorgante entregara 1 punto que será válido para recibir la QSL personal. - DIPLOMAS BRONCE, PLATA Y ORO: Para la obtención de estos Diplomas las Estaciones participantes deberán completar la cantidad de 25 QSLs “Bronce”, 50 “Plata” y la totalidad para el Diploma ORO. Observaciones Generales: Será necesario enviar el log para la obtención del Diploma y la confirmación en QRZ como plataforma principal, sin la confirmación no obtendrá las QSLs que serán generadas los días Sábados luego de recibir la confirmación semanal. El log (Excel) podrá descargarse del QRZ de los otrogantes y las bases pueden descargarse del Link abajo",
-    "inicio": "2026-03-03T12:00",
-    "fin": "",
-    "bandas": "70cm, 2M, 40M,",
-    "modos": "SSB, DVOICE, DMR",
-    "links": "https://drive.google.com/file/d/18f48TCG-TosrGe2n9XZBMK6lvH40IZXD/view?usp=drive_link",
-    "horaVisible": ""
   }
 ]
