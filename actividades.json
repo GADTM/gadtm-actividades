@@ -9,5 +9,16 @@
     "modos": "SSB, DVOICE, DMR",
     "links": "https://drive.google.com/file/d/18f48TCG-TosrGe2n9XZBMK6lvH40IZXD/view?usp=drive_link",
     "horaVisible": "UTC"
+  },
+  {
+    "id": "1778111983504",
+    "imagen": "https://res.cloudinary.com/dgv9hbtxd/image/upload/v1778111476/Torta_Argentina_ttd5et.jpg",
+    "descripcion": "12 Edicion de la Fiesta Nacional de la Torta Argentina \nLa Torta Argentina fue creada por dos mulatas uruguayas un 25 de mayo.\nEstás cocineras uruguayas trabajaban para las familias Espil-Letche.",
+    "inicio": "2026-05-25T12:30",
+    "fin": "2026-05-25T21:00",
+    "bandas": "40/20/16/10 ( propagación mediante), Multiprotocolo Norte Grande Argentino-Gadtm y Peanut GADTM,TG7229 FREEDMR ",
+    "modos": "SSB/DV/DMR",
+    "links": "Qrz.com",
+    "horaVisible": ""
   }
 ]
