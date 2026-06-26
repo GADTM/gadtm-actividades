@@ -9,16 +9,5 @@
     "modos": "SSB, DVOICE, DMR",
     "links": "https://drive.google.com/file/d/18f48TCG-TosrGe2n9XZBMK6lvH40IZXD/view?usp=drive_link",
     "horaVisible": "UTC"
-  },
-  {
-    "id": "1782429829515",
-    "imagen": "https://cdn-bio.qrz.com/s/lu1aas/final_final_png.jpg?p=312633cc1a646ae373e746d401c86c00",
-    "descripcion": "Los miembros del GADTM participarán como estaciones colaboradoras de la actividad a realizarse el 30 de Junio del 2026, con MOTIVO DE LA CONMEMORACIÓN DEL 216º ANIVERSARIO DE LA INCORPORACIÓN DE LA PREFECTURA NAVAL ARGENTINA COMO INSTITUCIÓN DE LA PATRIA",
-    "inicio": "2026-03-30T00:00",
-    "fin": "2026-06-30T23:59",
-    "bandas": "2M, 70cm, 40M",
-    "modos": "Todos los MODOS",
-    "links": "https://www.qrz.com/db/LU1AAS",
-    "horaVisible": "UTC"
-  },
+  }  
 ]
