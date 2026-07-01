@@ -23,13 +23,13 @@
   },
   {
     "id": "1782785858837",
-    "imagen": "https://res.cloudinary.com/dgv9hbtxd/image/upload/v1782785533/file_00000000e99c720e9209a861d2138028_rzo3zv.png",
-    "descripcion": "Se entregará una qsl alusiva al 209 aniversario de la Fundación de la Cdad de Dolores 1er Pueblo Patrio.",
-    "inicio": "2026-08-21T12:30",
-    "fin": "2026-08-17T20:00",
+    "imagen": "",
+    "descripcion": "Se entregará una qsl alusiva al 209 aniversario de la Fundación de la Ciudad de Dolores 1er Pueblo Patrio.",
+    "inicio": "2026-08-21T10:00",
+    "fin": "2026-08-17T21:00",
     "bandas": " 2mts ",
-    "modos": "Dig Voic",
-    "links": "Qrz.com",
-    "horaVisible": ""
+    "modos": "Digital Voice",
+    "links": "https://www.qrz.com/db/LU6EGD",
+    "horaVisible": "UTC"
   }
 ]
