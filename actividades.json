@@ -31,5 +31,16 @@
     "modos": "Digital Voice",
     "links": "https://www.qrz.com/db/LU6EGD",
     "horaVisible": "UTC"
+  },
+  {
+    "id": "1783432264083",
+    "imagen": "https://res.cloudinary.com/dgv9hbtxd/image/upload/v1783431947/independencia_u6ptpi.png",
+    "descripcion": "Qsl Dia de la Independencia",
+    "inicio": "2026-07-09T14:01",
+    "fin": "2026-07-09T21:00",
+    "bandas": "2M",
+    "modos": "DIGITAL VOICE",
+    "links": "QRZ.COM",
+    "horaVisible": ""
   }
 ]
