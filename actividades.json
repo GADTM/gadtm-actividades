@@ -9,5 +9,16 @@
     "modos": "SSB, DVOICE, DMR",
     "links": "https://drive.google.com/file/d/18f48TCG-TosrGe2n9XZBMK6lvH40IZXD/view?usp=drive_link",
     "horaVisible": "UTC"
+  },
+  {
+    "id": "1789767285201",
+    "imagen": "https://res.cloudinary.com/dgv9hbtxd/image/upload/v1789767165/file_000000004318820a87b8e6c55cc3bead_kjrtcu.png",
+    "descripcion": "21 de octubre qsl Día de la Primavera 🌸🌼🌸🌼🌼🌼🌸🌸🌸\nSe deberá enviar a LW3DFA-10 MJE:CQ PRIMAVERA \n\n",
+    "inicio": "2026-09-21T12:00",
+    "fin": "2026-09-21T23:59",
+    "bandas": "2metros",
+    "modos": "APRS",
+    "links": "Qrz.com",
+    "horaVisible": ""
   }
 ]
